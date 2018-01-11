@@ -22,3 +22,7 @@ git push origin master
 
 git config --list
 
+git clean 
+-    -nd shows what would be removed
+-    -fd removes
+
