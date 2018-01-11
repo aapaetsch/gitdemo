@@ -31,3 +31,6 @@ git log
 
 git pull
 -use to get repo from online
+
+.gitignore
+-a file for showing which files are ignored when pushing?
