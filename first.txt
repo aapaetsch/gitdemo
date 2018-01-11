@@ -26,3 +26,5 @@ git clean
 -    -nd shows what would be removed
 -    -fd removes
 
+git log 
+-shows time and dates of git commits
