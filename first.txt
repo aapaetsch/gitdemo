@@ -1,0 +1,16 @@
+"first file" 
+
+git clone "url"
+-clones a git repo
+git status
+-gives status of local repo based on online repo
+
+echo "first file" > first.txt
+-makes first.txt file with "first file" stored in it
+
+git add first.txt
+-adds first.txt to online repo
+
+git add -A 
+-adds all
+
