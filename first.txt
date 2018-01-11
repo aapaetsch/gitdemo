@@ -34,3 +34,6 @@ git pull
 
 .gitignore
 -a file for showing which files are ignored when pushing?
+
+git checkout #### or master
+-look at the git at that time
