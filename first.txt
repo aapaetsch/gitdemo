@@ -28,3 +28,6 @@ git clean
 
 git log 
 -shows time and dates of git commits
+
+git pull
+-use to get repo from online
