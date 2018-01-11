@@ -37,3 +37,6 @@ git pull
 
 git checkout #### or master
 -look at the git at that time
+
+git branch
+
